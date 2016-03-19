@@ -8,6 +8,10 @@
 *.log
 *.log.*
 *.sig
+*.pdf
 
 pkg/
 src/
+*.pretty/
+
+
